@@ -1,0 +1,1 @@
+A Decentralized Agricultural Trading Platfrom using blockchain tachnology
